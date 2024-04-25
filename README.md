@@ -7,40 +7,6 @@
         <link rel="stylesheet" href="ujicoba.css">
         <title> HTML dan CSS </title>
     </head>
-    <body>
-        <nav>
-            <div class="fContainer">
-                <nav class="wrapper">
-                    <div class="logo"><a href=''> MyLib</a></div>
-                    <div class="menu">
-                    <div class="brand"></div>
-                    <ul class="navigation">
-                        <li><a href="#home" class="active">Home</a></li>
-                        <li><a href="#courses">Courses</a></li>
-                        <li><a href="#tutors">Tutors</a></li>
-                        <li><a href="#partners">Partners</a></li>
-                        <li><a href="#contact">Contact</a></li>
-                        <li><a href="#about">About</a></li>
-                        <li><a href="#signup" class="tbl-biru">Sign Up</a></li>
-                    </ul>
-                    </div>
-            </div>
-        </nav>
-    </body>
-
-    <body>
-        <section>
-            <div class="wrapper">
-                <section id="home">
-            <div class="kolom">
-                <p class="deskripsi">Kunjungi Perpustakaan di MyLab</p>
-                <h2>Jadikan Perpustakaan Sebagai Laboratorium mu</h2>
-                <p>...</p>
-                <p><a href="" class="tbl-orange">Pelajari Lebih Lanjut</a></p>
-            </div>
-            </section>
-            </div>
-    </body>
 
     <body>
         <ul>
